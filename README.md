@@ -151,5 +151,5 @@ VoIP
 Wheels
 Wombo
 
-Not too many since the policy is that we can only check the outthroughs once per day.
-The easy ones are pretty similar with the OSCP exam boxes. If we can only check the outthrought once per day, why don't learn more? That is why I did not do ""Get to Work" boxes too many.
+Not too many since the policy is that we can only check the walkthroughs once per day.
+The easy ones are pretty similar with the OSCP exam boxes. If we can only check the walkthrought once per day, why don't learn something more? That is why I did not do ""Get to Work" boxes too many.
